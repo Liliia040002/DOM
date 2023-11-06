@@ -1,4 +1,4 @@
-# Loops-Functions
+DOCUMENT OBJECT MODEL (DOM)
 
 1. На [HTML-сторінці](task1.html) є ненумерований список з id="list", який складається із 5 елементів.  
 
